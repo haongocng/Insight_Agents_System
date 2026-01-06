@@ -1,0 +1,13 @@
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-core==0.3.27
+langchain-openai
+langchain-google-genai==2.0.1
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+python-dotenv
+google-search-results
